@@ -1,0 +1,32 @@
+.hero {
+  z-index: -100
+  ;
+  background: url("C:\Project 4539\sachin\src\img\projectbg.jpg") center/cover no-repeat;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  padding: 50px;
+  color: #ffffff;
+  height: 90vh;
+}
+
+.hero-text {
+  max-width: 700px;
+}
+
+.hero-text .btn {
+  background-color: #0b9cfd;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+.book{
+
+  margin-top: -430px;
+  margin-left: 1100px;
+  
+  
+}

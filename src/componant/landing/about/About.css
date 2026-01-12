@@ -1,0 +1,25 @@
+.section {
+  background: #fff;
+  padding: 60px 20px; 
+  text-align: center;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;    
+}
+
+
+.about {
+  font-size: 32px;       
+  font-weight: 600;
+  color: #000;
+  margin: 0 0 20px 0;    
+}
+
+
+.amet {
+  font-size: 15px;
+  color: #444;
+  line-height: 1.8;
+  max-width: 600px;
+  margin: 0;             
+}
