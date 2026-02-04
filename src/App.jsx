@@ -1,14 +1,14 @@
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Hero from "./componant/landing/hero/Hero";
-import About from "./componant/landing/about/About";
-import Booking from "./componant/landing/booking/Booking";
-import Rooms from "./componant/landing/rooms/Rooms";
-import Newsletter from "./componant/landing/footer/Footer";
-import Navbar from "./componant/navbar/Navbar";
-import Activities from "./componant/landing/activities/Activities";
-import Footer from "./componant/landing/footer/Footer";
-import Portfolio from "./componant/landing/portfolio/Portfolio";
+import Hero from "./component/landing/hero/Hero";
+import About from "./component/landing/about/About";
+import Booking from "./component/landing/booking/Booking";
+import Rooms from "./component/landing/rooms/Rooms";
+import Newsletter from "./component/landing/footer/Footer";
+import Navbar from "./component/navbar/Navbar";
+import Activities from "./component/landing/activities/Activities";
+import Footer from "./component/landing/footer/Footer";
+import Portfolio from "./component/landing/portfolio/Portfolio";
 
 
 
