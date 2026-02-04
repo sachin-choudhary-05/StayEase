@@ -1,7 +1,7 @@
 .hero {
   z-index: -100
   ;
-  background: url("C:\Project 4539\sachin\src\img\projectbg.jpg") center/cover no-repeat;
+  background: url("projectbg.jpg") center/cover no-repeat;
   height: 400px;
   display: flex;
   align-items: center;
